@@ -1,0 +1,8 @@
+git 
+    add agrega los archivos a cambios para commitear
+    commit guardar un cambio con un mensaje.
+    push
+    pull
+    fetch
+    checkout
+    merge
