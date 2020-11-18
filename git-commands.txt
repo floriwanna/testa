@@ -1,8 +1,8 @@
 git 
-    add agrega los archivos a cambios para commitear
+    add - agrega los archivos a cambios para commitear
     commit guardar un cambio con un mensaje.
-    push
-    pull
+    push   subir el cambio
+    pull   descargar los cambios
     fetch
     checkout
     merge
